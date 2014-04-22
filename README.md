@@ -10,7 +10,7 @@ There are four types:
 ```
 Int, Double, String and Boolean.
 ```
-Also we have special value: Undefined.
+Also we have special value: `Undefined`.
 
 ## Syntax overview ##
 
