@@ -3,8 +3,13 @@ Simple dynamically typed language.
 
 In this small language all functions are first class objects.
 Structure and function declarations are missing, that's why one must use this way:
-x = <function or structure object definition>
-There are four types: Int, Double, String and Boolean.
+```
+x = [function or structure object definition]
+```
+There are four types: 
+```
+Int, Double, String and Boolean.
+```
 Also we have special value: Undefined.
 
 ## Syntax overview ##
